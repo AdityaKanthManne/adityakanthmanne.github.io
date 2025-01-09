@@ -1,7 +1,7 @@
 # Hi, I'm Aditya Kanth Manne! 👋
 
 🚀 **About Me**
-- 📈 Data Scientist | Full Stack Developer | Financial Analyst
+- 📈 Data Scientist  | Financial Analyst
 - 🌟 Passionate about [Your Niche/Interests]
 
 📚 **Skills**
